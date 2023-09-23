@@ -1,0 +1,25 @@
+body {
+  /* background-image: url(./assets/bg-mobile.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover; */
+
+  /*Ordem background: color, image, repeat position/size*/
+  background: url(./assets/bg-mobile.jpg) no-repeat top center/cover;
+}
+
+#container {
+  width: 360px;
+  /* height: 712px; */
+  border: 1px solid #ff0000;
+  /*Para centralizar pode utilizara o margin-left junto com o margin-right com valor auto, no entando pode ser substituido pelo margin com valor auto*/
+  margin: auto;
+}
+
+#profile {
+  text-align: center;
+}
+
+#profile img {
+  width: 112px;
+}
