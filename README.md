@@ -1,4 +1,4 @@
-# darkMode e lightMode - devlinks
+# darkMode e lightMode - localStorage
 ## Tecnologias utilizadas
 
 ![Badge Marking HTML5](https://img.shields.io/badge/Marking-HTML5-orange)
