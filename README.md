@@ -18,5 +18,9 @@
 
 <p>Para a visualização e o funcionamento do projeto <strong>devlinks</strong>, basta abrir o arquivo index.html. Caso esteja utilizado o Visual Studio Code, você pode instalar a <strong>extensão live server;</strong> após a instalação, clique com o botão direito em cima do <strong>index.html</strong> e escolha a opção <strong>Open with live server, para abrir o projeto devlinks</strong></p>
 
-<h2>Tela do devlinks</h2>
+<h3>Link</h3>
+
+Acesse o projeto devlinks clicando [aqui](https://charlesbrcosta.github.io/darkMode-lightMode-localStorage) 
+
+<h3>Tela do devlinks</h3>
 <img src="./assets/tela-devlinks.png">
