@@ -20,7 +20,7 @@
 
 <h3>GitHub Page</h3>
 
-Acesse o projeto devlinks por meio do link clicando [aqui](https://charlesbrcosta.github.io/darkMode-lightMode-localStorage) 
+Acesse o projeto devlinks por meio do link clicando [aqui](https://charlesbrcosta.github.io/devlinks)
 
 <h3>Tela do devlinks</h3>
 <img src="./assets/tela-devlinks.png">
